@@ -18,3 +18,4 @@ print(type([1,2,3]))             # List
 print(type({'name':'Ajay M'}))   # Dictionary
 print(type({9.3, 4.5, 5.7}))    # Set
 print(type((9.3, 0.4, 7.5)))    # Tuple
+
