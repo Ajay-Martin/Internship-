@@ -1,0 +1,20 @@
+#Arithmatic operatiosn
+print(2 + 3)    #Addition
+print(3 - 10)   #Subtraction
+print(2 * 19)   #Multiplication
+print(3 / 4)      #Division
+print( 44 ** 3)   #Exponential
+print(3 % 2)      #Modulus
+print(3 // 2)      #Floor Division operator
+
+#Checking Data Types
+
+
+print(type(233))                 # Int
+print(type(3.14))                # Float
+print(type( 4 + 4j ))            # Complex
+print(type('Code name'))         # String
+print(type([1,2,3]))             # List
+print(type({'name':'Ajay M'}))   # Dictionary
+print(type({9.3, 4.5, 5.7}))    # Set
+print(type((9.3, 0.4, 7.5)))    # Tuple
